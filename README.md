@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akl001&label=Profile%20views&color=0e75b6&style=flat" alt="akl001" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/l9 udyr" target="blank"><img src="https://img.shields.io/twitter/follow/l9 udyr?logo=twitter&style=for-the-badge" alt="l9 udyr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ToxicspinozV" target="blank"><img src="https://img.shields.io/twitter/follow/ToxicspinozV?logo=twitter&style=for-the-badge" alt="l9 udyr" /></a> </p>
 
 - 🔭 I’m currently working on **enhancing my skills in Full Stack Web Development.**
 
