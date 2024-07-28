@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **innovative web development projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AKL001?tab=repositories](https://github.com/AKL001?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/AKL001?tab=repositories)
 
 - 💬 Fell free to Ask me about **React.js, Laravel, or any other tech-related topics.**
 
