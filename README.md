@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills in Full Stack Web Development.**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently diving into the 42 Network project while learning **C** , **Bash** , and more!
 
 - 👯 I’m looking to collaborate on **innovative web development projects**
 
