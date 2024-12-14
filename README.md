@@ -86,7 +86,7 @@
 </div>
 <hr/>
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ablabib?42Network=off&UM6P=off" alt="ablabib's 42 stats" /></a>
+<a href="https://github.com/AKL001"><img src="https://badge.mediaplus.ma/greenbinary/ablabib?42Network=off&UM6P=off" alt="ablabib's 42 stats" /></a>
 </div>
 <hr/>
 <div align="center">
