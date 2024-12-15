@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ToxicspinozV" target="blank"><img src="https://img.shields.io/twitter/follow/ToxicspinozV?logo=twitter&style=for-the-badge" alt="l9 udyr" /></a> </p>
 
-<a href="https://github/AKL001" onclick="return false;">
+<a href="https://github.com/AKL001" onclick="return false;">
     <img 
         style="border-radius: 1rem;" 
         align="right" 
