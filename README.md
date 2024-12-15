@@ -6,7 +6,18 @@
 
 
 <p align="left"> <a href="https://twitter.com/ToxicspinozV" target="blank"><img src="https://img.shields.io/twitter/follow/ToxicspinozV?logo=twitter&style=for-the-badge" alt="l9 udyr" /></a> </p>
-<img align="right" height="180" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  />
+
+<a href="https://github/AKL001" onclick="return false;">
+    <img 
+        style="border-radius: 1rem;" 
+        align="right" 
+        height="180" 
+        src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" 
+        alt="Animated GIF" 
+    />
+</a>
+
+
 
 - 🔭 I’m currently working on **enhancing my skills in Full Stack Web Development.**
 
@@ -84,10 +95,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
-<hr/>
-<div align="center">
-<a href="https://github.com/AKL001"><img src="https://badge.mediaplus.ma/greenbinary/ablabib?42Network=off&UM6P=off" alt="ablabib's 42 stats" /></a>
-</div>
+
 <hr/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AKL001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
