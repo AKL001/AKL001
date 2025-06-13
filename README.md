@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm AKL001</h1>
 <h3 align="center">I am a Full Stack Web Developer passionate about technology. I love learning new things and contributing to innovative projects.</h3>
 
@@ -97,10 +96,16 @@
 </div>
 
 <hr/>
+<p align="center">
+  <a href="https://42term.vercel.app/user/ablabib">
+    <img src="https://42term.vercel.app/api/widget/projects/ablabib?theme=dark" alt="ablabib's 42 projects" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKL001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
- <hr/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKL001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+  <hr/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKL001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph" />
+
 </div>
-<br clear="both">
 
