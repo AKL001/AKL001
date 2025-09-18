@@ -95,12 +95,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-<hr/>
-<p align="center">
+<!-- <p align="center">
   <a href="https://42term.vercel.app/user/ablabib">
     <img src="https://42term.vercel.app/api/widget/projects/ablabib?theme=dark" alt="ablabib's 42 projects" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <hr/>
