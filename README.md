@@ -93,6 +93,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
 <!-- <p align="center">
@@ -104,7 +106,16 @@
 <div align="center">
   <hr/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKL001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AKL001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="170" alt="languages graph" /> -->
+
+<img src="https://streak-stats.demolab.com?user=AKL001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  /> 
+<!-- <img src="https://github-profile-trophy.vercel.app?username=AKL001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 
 </div>
+    <hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AKL001/AKL001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AKL001/AKL001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AKL001/AKL001/output/pacman-contribution-graph.svg">
+</picture>
 
