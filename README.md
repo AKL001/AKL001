@@ -11,4 +11,4 @@
 
 ### 📫 How to reach me
 
-* **Email:** [karimlabib@gmail.com](mailto:karimlabib@gmail.com)
+* **Email:** [karimlabib@gmail.com](mailto:akarimlabib@gmail.com)
